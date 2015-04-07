@@ -1,50 +1,6 @@
 Table of Contents
-
 =================
 
-* [Link You See](#link-you-see)
+* [Section Headline](#section-headline)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-##Link You See
+##Section Headline
